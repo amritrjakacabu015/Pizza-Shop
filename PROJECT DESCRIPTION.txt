@@ -1,0 +1,14 @@
+The project is also available at: https://github.com/amritrjakacabu015/Pizza-Shop
+
+Description:
+	This project is a high fidelity prototype of a Pizza restaurant website where customers can order pizzas online for delivery or pickup. 
+	Customers can register on the webiste, with their names, delivery address, preferred payment method etc.
+	The website allows restaurant administrators to post offers and news and managae various customer information.
+	The website allows the restaurant to provide real-time order tracking to their customers.
+	
+	
+Architetcure and other information:
+	The project is a server side HTML web application.
+	The front end of the website is written in HTML5, styled with CSS, and made more interactive with JavaScript.
+	Additionally, data is stored in a MySQL database.
+	Finally, the server side interactions are performed with the help of PHP.
